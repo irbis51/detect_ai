@@ -29,7 +29,7 @@ Kotlin ui, compose multiplatform, coroutines для асинхронных оп�
 Fastapi, apiclient kotlin
 
 ### Ml-model
-EfficientNet-B0 архитектура, PyTorch для инференса, scikit-learn
+EfficientNet-B0 архитектура, PyTorch для инференса, scikit-learn, подробности в файле ВКР
 
 ### Devops: 
 Git/github/action, gradle, docker, ci/cd
